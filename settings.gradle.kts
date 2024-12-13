@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GamesAPI"
+rootProject.name = "gamesRetroFit"
 include(":app")
- 
